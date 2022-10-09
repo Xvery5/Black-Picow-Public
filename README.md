@@ -1,3 +1,3 @@
 # Black-Picow-Public
 
-Hopefully editied private stuff out, public repos
+Hopefully edit out all private stuff out, public repos
